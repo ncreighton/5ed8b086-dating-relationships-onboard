@@ -1,2 +1,28 @@
-# 5ed8b086-dating-relationships-onboard
-The dating relationships tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Dating &amp; Relationships Onboarding And Training — fully configured and ready to use - Pre-built dat
+# Dating & Relationships Onboarding and Training System Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B6eVdfXx2k46xyavOcZK2V)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B6eVdfXx2k46xyavOcZK2V)
+
